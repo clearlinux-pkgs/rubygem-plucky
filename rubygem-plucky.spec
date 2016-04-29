@@ -4,7 +4,7 @@
 #
 Name     : rubygem-plucky
 Version  : 0.6.6
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/plucky-0.6.6.gem
 Source0  : https://rubygems.org/downloads/plucky-0.6.6.gem
 Summary  : No detailed summary available
